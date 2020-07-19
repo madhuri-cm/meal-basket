@@ -1,0 +1,3 @@
+[submodule "meal-basket"]
+	path = meal-basket
+	url = https://github.com/madhuri-cm/meal-basket.git
